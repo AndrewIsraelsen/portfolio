@@ -19,11 +19,21 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Ok here's some bio, feel free to use as much or as little as you'd like:
+
+I'm in my 2nd semester at BYU studying computer science and minoring in business.
+
+At BYU, I'm in the American Folk Ensemble playing accordion and harmonica, a School Jazz Combo playing guitar, and singing in the Men's Chorus. 
+
+My summer and current job to pay for school has been busking up and down Utah. Find me weekends and evenings on city streets, outside ice cream and shake shops, and at farmers markets.
+
+I grew up playing music but didn't fall in love with it until highschool playing jazz guitar. During Covid I grew interested in the accordion, but didn't get one til a couple years later right before my mission. 
+
+I'd wanted to come to the accordion club before my mission, but finally made to a meeting this last spring and I'm excited to now get to play for y'all!!
 
 ### Education
 
-- **Degree Name**, University Name (Year)
+- **Computer Science**, Brigham Young University (Graduating 2029)
 - **Relevant Coursework**: List key courses related to product management, analytics, or business
 - **Academic Achievements**: Honor societies, relevant projects, or awards
 
